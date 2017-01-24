@@ -22,3 +22,6 @@ Summary of software installed
 3rd Party references:
 -	https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
 
+grader password:  pr0j3ct1
+grader key:  linuxProject
+linuxProject passphrase:  linuxProject (I know, not the greatest, but at least I used one.  Next time I'll use a better one!!!)
